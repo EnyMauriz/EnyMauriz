@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou @EnyMauriz
 - 👀 Tenho interesse em engenharia de software, gestão de banco de dados e empreendedorismo!
-- 🌱 Atualmente, estou estudando para o concurso do Ministério Público da União (MPU) e desenvolvendo um projeto com aplicações CRUD em Java.
+- 🌱 Atualmente, estou estudando para o concurso do Ministério Público da União (MPU) e desenvolvendo um projeto de gestão para uma empresa de engenharia civil.
 - 💞️ Gostaria de colaborar em projetos de tecnologia voltados para a educação e a comunidade.
 - 📫 Como me encontrar: sherlyene.sa@outlook.com
 - 😄 Pronomes: Ela/Dela
